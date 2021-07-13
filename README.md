@@ -1,2 +1,6 @@
 # Our benifits section 
-using Css3 & flex box & media query
+> using
+- Css3
+  - media query
+  - flex box 
+
